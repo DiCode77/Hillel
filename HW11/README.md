@@ -6,11 +6,13 @@ List of commands that need to be executed sequentially to build the project
 
 prepare files to be compiled via cmake
 files will be created in HW11/build/Release/
+
 cmake .. -DCMAKE_BUILD_TYPE=Release 
+
 cmake --build .
 
 
-or if you need to generate a project file for Xcode, then one command is executed
+Or if you need to generate a project file for Xcode, then one command is executed
 
 cmake -G "Xcode" ..
 
