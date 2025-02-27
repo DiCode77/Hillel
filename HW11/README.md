@@ -17,3 +17,6 @@ Or if you need to generate a project file for Xcode, then one command is execute
 cmake -G "Xcode" ..
 
 
+![hw11](../Pictures/hw11.png)
+
+
